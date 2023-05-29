@@ -1,4 +1,4 @@
-#**INSTRUCTIONS FOR USING PLAYLIST GENERATOR
+#INSTRUCTIONS FOR USING PLAYLIST GENERATOR
   
   Step 1: Choose a filter from the "Filter" dropdown list.
   
