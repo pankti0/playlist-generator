@@ -1,13 +1,15 @@
 # 10.014 Computational Thinking for Design Final Project
 
-## Playlist Generator
+Group 1H: Yee Jia Zhen, Pankti Shah, Ho Xiaoyang, Luvena Liethanti, Sun Sitong
 
-Group members:
-1. Yee Jia Zhen
-2. Pankti Shah
-3. Ho Xiaoyang
-4. Luvena Liethanti
-5. Sun Sitong
+## Playlist Generator
+The main focus of this project is to write a software by applying programming concepts learnt in this module. We made a basic playlist generator with a GUI using tkinter library. 
+
+Dataset: "Top 100 Most Streamed Songs on Spotify" exported from Kaggle
+
+
+
+
 
 ### INSTRUCTIONS FOR USING PLAYLIST GENERATOR
 * Step 1: Choose a filter from the "Filter" dropdown list.
