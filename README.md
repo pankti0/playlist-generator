@@ -1,4 +1,4 @@
-# 10.014 Computational Thinking for Design Final Project
+# 10.014 Computational Thinking for Design 1D Project
 
 Group 1H: Yee Jia Zhen, Pankti Shah, Ho Xiaoyang, Luvena Liethanti, Sun Sitong
 
